@@ -2,9 +2,8 @@
 <h1>Build a REST API</h1>
 <p><strong>Description:</strong></p>
 <ul>
-<li>How to build and customize a Rest API</li>
 <li>User authentication via Django "TokenAuthentication"</li>
-<li>Generating Auth Tokens from a mobile app</li>
+<li>Generating Auth Tokens </li>
 <li>
 CRUD functionality:<br>
 <ol>
@@ -14,7 +13,7 @@ CRUD functionality:<br>
 <li>Delete blog posts</li>
 </ol>
 </li>
-<li>Pagination (very important for mobile apps)</li>
+<li>Pagination</li>
 <li>Serialization of data</li>
 <li>JSON</li>
 </ul>
